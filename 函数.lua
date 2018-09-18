@@ -104,3 +104,6 @@ print(fwrite("%d%d\n",1,2));
 print(fwrite("没有可变参数...\n")); 
 
 print(select("#"));
+
+arr = {1,2,3};
+print(#arr);
